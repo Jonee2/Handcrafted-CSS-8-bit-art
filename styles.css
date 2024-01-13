@@ -1,0 +1,79 @@
+body{
+    border: 0;
+    font-size: 0;
+    display: inline-block;
+}
+h1{
+    text-align: center;
+}
+
+/* 
+hat/overalls = #AF0F10;
+skin = #C7A587
+hair = #3A1C0E
+shirt = #0D0C8B
+eyes = #0B0B07
+button = #A9950F
+
+*/
+.div1{
+    padding: 10px;
+    background-color: #AF0F10;
+    margin-right: 180px;
+    margin-left: 100px;
+}
+.div2{
+    padding: 10px;
+    background-color: #AF0F10;
+    padding-right: 40px;
+    margin-left: 80px;
+    margin-right: 120px;
+}
+.div3{
+    padding: 10px;
+    margin-left: 80px;
+    background-color: #3A1C0E;
+    display: inline-block;
+    padding-right: 40px;
+    
+}
+.div4{
+    padding: 10px;
+    background-color: #C7A587;
+    margin-left: 0px;
+    display: inline-block;
+    padding-right: 50px;
+    
+}
+.div5{
+    padding: 10px;
+    background-color: #0B0B07;
+    display: inline-block;
+}
+.div6{
+    padding: 10px;
+    margin-left: 0px;
+    padding-right: 10px;
+    background-color: #C7A587;
+    display: inline-block;
+}
+.div7{
+    padding: 10px;
+    margin-left: 90px;
+    background-color: #3A1C0E;
+    display: inline-block;
+}
+.div8{
+    padding: 10px;
+    background-color: #C7A587;
+    margin: 0px;
+    display: inline-block;
+    padding-right: 10px;
+    
+}
+.div9{
+    padding: 10px;
+    margin: 0px;
+    background-color: #3A1C0E;
+    display: inline-block;
+}
