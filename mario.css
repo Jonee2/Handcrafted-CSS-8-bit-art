@@ -1,0 +1,422 @@
+body{
+    border: 0;
+    font-size: 0;
+}
+h1{
+    text-align: center;
+}
+/* 
+hat/overalls = #AF0F10;
+skin = #C7A587
+hair/boots = #3A1C0E
+shirt = #0D0C8B
+eyes = #0B0B07
+button = #A9950F
+
+*/
+.div1{
+    padding: 10px;
+    background-color: #AF0F10;
+    margin-right: 180px;
+    margin-left: 100px;
+    padding-right: 100px;
+    display: inline-block;
+}
+.div2{
+    padding: 10px;
+    background-color: #AF0F10;
+    padding-right: 170px;
+    margin-left: 80px;
+    margin-right: 120px;
+    display: inline-block;
+}
+.div3{
+    padding: 10px;
+    margin-left: 80px;
+    background-color: #3A1C0E;
+    display: inline-block;
+    padding-right: 50px;
+    
+}
+.div4{
+    padding: 10px;
+    background-color: #C7A587;
+    margin-left: 0px;
+    display: inline-block;
+    padding-right: 40px;
+    
+}
+.div5{
+    padding: 10px;
+    background-color: #0B0B07;
+    display: inline-block;
+}
+.div6{
+    padding: 10px;
+    margin-left: 0px;
+    padding-right: 10px;
+    background-color: #C7A587;
+    display: inline-block;
+}
+/* eye */
+.div7{
+    padding: 10px;
+    margin-left: 60px;
+    background-color: #3A1C0E;
+    display: inline-block;
+}
+.div8{
+    padding: 10px;
+    background-color: #C7A587;
+    margin: 0px;
+    display: inline-block;
+    padding-right: 10px;
+    
+}
+.div9{
+    padding: 10px;
+    margin: 0px;
+    background-color: #3A1C0E;
+    display: inline-block;
+}
+.div10{
+    padding: 10px;
+    background-color: #C7A587;
+    margin: 0px;
+    display: inline-block;
+    padding-right: 60px;
+    }
+.div11{
+    padding: 10px;
+    background-color: #0B0B07;
+    display: inline-block;
+    }
+.div12{
+    padding: 10px;
+    background-color: #C7A587;
+    margin: 0px;
+    display: inline-block;
+    padding-right: 40px;
+    }
+.div13{
+    padding: 10px;
+    margin: 0px;
+    margin-left: 60px;
+    background-color: #3A1C0E;
+    display: inline-block;
+}
+.div14{
+    padding: 10px;
+    background-color: #C7A587;
+    margin: 0px;
+    display: inline-block;
+    padding-right: 10px;
+    }
+    .div15{
+        padding: 10px;
+        margin: 0px;
+        background-color: #3A1C0E;
+        display: inline-block;
+        padding-right: 30px;
+    }
+.div16{
+    padding: 10px;
+    background-color: #C7A587;
+    margin: 0px;
+    display: inline-block;
+    padding-right: 60px;
+}
+.div17{
+    padding: 10px;
+    margin: 0px;
+    background-color: #3A1C0E;
+    display: inline-block;
+    padding-right: 10px;
+}        
+.div18{
+    padding: 10px;
+    background-color: #C7A587;
+    margin: 0px;
+    display: inline-block;
+    padding-right: 40px;
+}
+.div19{
+    padding: 10px;
+    margin: 0px;
+    margin-left: 60px;
+    background-color: #3A1C0E;
+    display: inline-block;
+    padding-right: 30px;
+} 
+.div20{
+    padding: 10px;
+    background-color: #C7A587;
+    margin: 0px;
+    display: inline-block;
+    padding-right: 80px;
+}
+.div21{
+    padding: 10px;
+    margin: 0px;
+    background-color: #3A1C0E;
+    display: inline-block;
+    padding-right: 60px;
+} 
+.div22{
+    padding: 10px;
+    background-color: #C7A587;
+    margin: 0px;
+    margin-left: 100px;
+    display: inline-block;
+    padding-right: 120px;
+}
+.div23{
+    padding: 10px;
+    background-color: #0D0C8B;
+    margin: 0px;
+    margin-left: 80px;
+    display: inline-block;
+    padding-right: 30px;
+}
+.div24{
+    padding: 10px;
+    background-color: #AF0F10;
+    margin: 0px;
+    display: inline-block;
+    padding-right: 10px;
+}
+.div25{
+    padding: 10px;
+    background-color: #0D0C8B;
+    margin: 0px;
+    display: inline-block;
+    padding-right: 50px;
+}
+.div26{
+    padding: 10px;
+    background-color: #0D0C8B;
+    margin: 0px;
+    margin-left: 60px;
+    display: inline-block;
+    padding-right: 50px;
+}
+.div27{
+    padding: 10px;
+    background-color: #AF0F10;
+    margin: 0px;
+    display: inline-block;
+    padding-right: 10px;
+}
+.div28{
+    padding: 10px;
+    background-color: #0D0C8B;
+    margin: 0px;
+    display: inline-block;
+    padding-right: 30px;
+}
+.div29{
+    padding: 10px;
+    background-color: #AF0F10;
+    margin: 0px;
+    display: inline-block;
+    padding-right: 10px;
+}
+.div30{
+    padding: 10px;
+    background-color: #0D0C8B;
+    margin: 0px;
+    display: inline-block;
+    padding-right: 50px;
+}
+.div31{
+    padding: 10px;
+    background-color: #0D0C8B;
+    margin: 0px;
+    margin-left: 40px;
+    display: inline-block;
+    padding-right: 70px;
+}
+.div32{
+    padding: 10px;
+    background-color: #AF0F10;
+    margin: 0px;
+    display: inline-block;
+    padding-right: 10px;
+}
+.div33{
+    padding: 10px;
+    background-color: #0D0C8B;
+    margin: 0px;
+    display: inline-block;
+    padding-right: 30px;
+}
+.div34{
+    padding: 10px;
+    background-color: #AF0F10;
+    margin: 0px;
+    display: inline-block;
+    padding-right: 10px;
+}
+.div35{
+    padding: 10px;
+    background-color: #0D0C8B;
+    margin: 0px;
+    display: inline-block;
+    padding-right: 70px;
+}
+.div36{
+    padding: 10px;
+    background-color: #C7A587;
+    margin: 0px;
+    margin-left: 40px;
+    display: inline-block;
+    padding-right: 30px;
+}
+.div37{
+    padding: 10px;
+    background-color: #0D0C8B;
+    margin: 0px;
+    display: inline-block;
+    padding-right: 30px;
+}
+.div38{
+    padding: 10px;
+    background-color: #AF0F10;
+    margin: 0px;
+    display: inline-block;
+    padding-right: 70px;
+}
+.div39{
+    padding: 10px;
+    background-color: #0D0C8B;
+    margin: 0px;
+    display: inline-block;
+    padding-right: 30px;
+}
+.div40{
+    padding: 10px;
+    background-color: #C7A587;
+    margin: 0px;
+    display: inline-block;
+    padding-right: 30px;
+}
+.div41{
+    padding: 10px;
+    background-color: #C7A587;
+    margin: 0px;
+    margin-left: 40px;
+    display: inline-block;
+    padding-right: 50px;
+}
+.div42{
+    padding: 10px;
+    background-color: #AF0F10;
+    margin: 0px;
+    display: inline-block;
+    padding-right: 10px;
+}
+.div43{
+    padding: 10px;
+    background-color: #A9950F;
+    margin: 0px;
+    display: inline-block;
+    padding-right: 10px;
+}
+.div44{
+    padding: 10px;
+    background-color: #AF0F10;
+    margin: 0px;
+    display: inline-block;
+    padding-right: 30px;
+}
+.div45{
+    padding: 10px;
+    background-color: #A9950F;
+    margin: 0px;
+    display: inline-block;
+    padding-right: 10px;
+}
+.div46{
+    padding: 10px;
+    background-color: #AF0F10;
+    margin: 0px;
+    display: inline-block;
+    padding-right: 10px;
+}
+.div47{
+    padding: 10px;
+    background-color: #C7A587;
+    margin: 0px;
+    display: inline-block;
+    padding-right: 50px;
+}
+.div48{
+    padding: 10px;
+    background-color: #C7A587;
+    margin: 0px;
+    margin-left: 40px;
+    display: inline-block;
+    padding-right: 30px;
+}
+.div49{
+    padding: 10px;
+    background-color: #AF0F10;
+    margin: 0px;
+    display: inline-block;
+    padding-right: 150px;
+}
+.div50{
+    padding: 10px;
+    background-color: #C7A587;
+    margin: 0px;
+    display: inline-block;
+    padding-right: 30px;
+}
+.div51{
+    padding: 10px;
+    background-color: #AF0F10;
+    margin: 0px;
+    margin-left: 80px;
+    display: inline-block;
+    padding-right: 50px;
+    margin-right: 40px;
+}
+.div52{
+    padding: 10px;
+    background-color: #AF0F10;
+    margin: 0px;
+    display: inline-block;
+    padding-right: 50px;
+}
+.div53{
+    padding: 10px;
+    background-color: #3A1C0E;
+    margin: 0px;
+    margin-left: 60px;
+    margin-right: 80px;
+    display: inline-block;
+    padding-right: 50px;
+}
+.div54{
+    padding: 10px;
+    background-color: #3A1C0E;
+    margin: 0px;
+    display: inline-block;
+    padding-right: 50px;
+}
+.div55{
+    padding: 10px;
+    background-color: #3A1C0E;
+    margin: 0px;
+    margin-left: 40px;
+    margin-right: 80px;
+    display: inline-block;
+    padding-right: 70px;
+}
+.div56{
+    padding: 10px;
+    background-color: #3A1C0E;
+    margin: 0px;
+    display: inline-block;
+    padding-right: 70px;
+}
