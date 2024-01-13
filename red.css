@@ -58,7 +58,7 @@ black #000000
 }
 .div8{
     padding: 10px;
-    background-color: #d50000;;
+    background-color: #d50000;
     margin: 0px;
     display: inline-block;
     padding-right: 10px;
@@ -67,38 +67,38 @@ black #000000
 .div9{
     padding: 10px;
     margin: 0px;
+    margin-left: 230px;
     background-color: #000000;
     display: inline-block;
 }
 .div10{
     padding: 10px;
-    background-color: #000000;
-    margin: 0px;
-    display: inline-block;
-    padding-right: 60px;
-    }
-.div11{
-    padding: 10px;
-    background-color: #0B0B07;
-    display: inline-block;
-    }
-.div12{
-    padding: 10px;
-    background-color: #000000;
+    background-color: #ff8b81;
     margin: 0px;
     display: inline-block;
     padding-right: 40px;
     }
+.div11{
+    padding: 10px;
+    background-color: #d50000;
+    display: inline-block;
+    }
+.div12{
+    padding: 10px;
+    background-color: #ffffff;
+    margin: 0px;
+    display: inline-block;
+    padding-right: 90px;
+    }
 .div13{
     padding: 10px;
     margin: 0px;
-    margin-left: 60px;
-    background-color: #000000;
+    background-color: #ff8b81;
     display: inline-block;
 }
 .div14{
     padding: 10px;
-    background-color: #000000;
+    background-color: #d50000;
     margin: 0px;
     display: inline-block;
     padding-right: 10px;
@@ -108,124 +108,130 @@ black #000000
         margin: 0px;
         background-color: #000000;
         display: inline-block;
-        padding-right: 30px;
+        padding-right: 10px;
     }
 .div16{
     padding: 10px;
-    background-color: #000000;
+    background-color: #d50000;
     margin: 0px;
     display: inline-block;
-    padding-right: 60px;
+    padding-right: 10px;
 }
 .div17{
     padding: 10px;
     margin: 0px;
-    background-color: #000000;
+    margin-left: 210px;
+    background-color: #d50000;
     display: inline-block;
     padding-right: 10px;
 }        
 .div18{
     padding: 10px;
-    background-color: #000000;
+    background-color: #ff8b81;
     margin: 0px;
+    margin-right: 150px;
     display: inline-block;
-    padding-right: 40px;
+    padding-right: 30px;
 }
 .div19{
     padding: 10px;
     margin: 0px;
-    margin-left: 60px;
-    background-color: #000000;
+    margin-right: 40px;
+    background-color: #ff8b81;
     display: inline-block;
-    padding-right: 30px;
+    padding-right: 10px;
+
 } 
 .div20{
     padding: 10px;
-    background-color: #000000;
+    background-color: #d50000;
     margin: 0px;
     display: inline-block;
-    padding-right: 80px;
+    padding-right: 10px;
 }
 .div21{
     padding: 10px;
     margin: 0px;
     background-color: #000000;
     display: inline-block;
-    padding-right: 60px;
+    padding-right: 10px;
 } 
 .div22{
     padding: 10px;
     background-color: #000000;
     margin: 0px;
-    margin-left: 100px;
+    margin-left: 210px;
     display: inline-block;
-    padding-right: 120px;
+    padding-right: 10px;
 }
 .div23{
     padding: 10px;
-    background-color: #000000;
+    background-color: #ff8b81;
     margin: 0px;
-    margin-left: 80px;
     display: inline-block;
-    padding-right: 30px;
+    padding-right: 10px;
 }
 .div24{
     padding: 10px;
-    background-color: #000000;
+    background-color: #d50000;
     margin: 0px;
+    margin-right: 150px;
     display: inline-block;
     padding-right: 10px;
 }
 .div25{
     padding: 10px;
-    background-color: #000000;
+    background-color: #ff8b81;
     margin: 0px;
+    margin-right: 60px;
     display: inline-block;
-    padding-right: 50px;
+    padding-right: 10px;
 }
 .div26{
-    padding: 10px;
-    background-color: #000000;
-    margin: 0px;
-    margin-left: 60px;
-    display: inline-block;
-    padding-right: 50px;
-}
-.div27{
     padding: 10px;
     background-color: #000000;
     margin: 0px;
     display: inline-block;
     padding-right: 10px;
 }
+.div27{
+    padding: 10px;
+    background-color: #d50000;
+    margin: 0px;
+    margin-left: 190px;
+    display: inline-block;
+    padding-right: 10px;
+}
 .div28{
     padding: 10px;
-    background-color: #000000;
+    background-color: #ff8b81;
     margin: 0px;
     display: inline-block;
     padding-right: 30px;
 }
 .div29{
     padding: 10px;
-    background-color: #000000;
+    background-color: #d50000;
     margin: 0px;
+    margin-right: 150px;
     display: inline-block;
     padding-right: 10px;
 }
 .div30{
     padding: 10px;
-    background-color: #000000;
+    background-color: #ff8b81;
     margin: 0px;
+    margin-right: 20px;
     display: inline-block;
-    padding-right: 50px;
+    padding-right: 10px;
 }
 .div31{
     padding: 10px;
-    background-color: #000000;
+    background-color: #d50000;
     margin: 0px;
     margin-left: 40px;
     display: inline-block;
-    padding-right: 70px;
+    padding-right: 10px;
 }
 .div32{
     padding: 10px;
@@ -245,30 +251,32 @@ black #000000
     padding: 10px;
     background-color: #000000;
     margin: 0px;
+    margin-left: 150px;
     display: inline-block;
     padding-right: 10px;
 }
 .div35{
     padding: 10px;
-    background-color: #000000;
+    background-color: #ff8b81;
     margin: 0px;
     display: inline-block;
-    padding-right: 70px;
+    padding-right: 10px;
 }
 .div36{
     padding: 10px;
-    background-color: #000000;
+    background-color: #d50000;
     margin: 0px;
-    margin-left: 40px;
+    margin-right: 130px;
     display: inline-block;
     padding-right: 30px;
 }
 .div37{
     padding: 10px;
-    background-color: #000000;
+    background-color: #ff8b81;
     margin: 0px;
+    margin-right: 100px;
     display: inline-block;
-    padding-right: 30px;
+    padding-right: 10px;
 }
 .div38{
     padding: 10px;
